@@ -24,7 +24,7 @@ body {
     font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
-    color: rgb(255, 255, 255);
+    color: #E6A4B4;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -41,8 +41,8 @@ body {
 }
 
 .btn {
-    background-color: #F3D7CA;
-    color: #E6A4B4;
+    background-color: #E6A4B4;
+    color: #F5EEE6;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
@@ -55,7 +55,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #fffefc;
+    background-color: #E6A4B4;
 }
 
 .gif_container {
